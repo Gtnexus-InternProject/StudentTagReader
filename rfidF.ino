@@ -15,8 +15,8 @@
 #define ADAFRUIT_CC3000_IRQ   3
 #define ADAFRUIT_CC3000_VBAT  5
 #define ADAFRUIT_CC3000_CS    10
-#define WLAN_SSID       "corp-wifi"
-#define WLAN_PASS       "!cloudblue5"
+#define WLAN_SSID       "my-wifi"
+#define WLAN_PASS       "password"
 #define WLAN_SECURITY   WLAN_SEC_WPA2
 #define IDLE_TIMEOUT_MS  3000
 #define WEBSITE      "www.gtnexus.com"
